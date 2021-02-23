@@ -13,7 +13,7 @@ This lab has two subsections, namely:
 #### Step 1: Verifying the installation
 <p>Please note: Git is already installed in your lab. Execute the below command to check the version. Execute Step 2.1.2 in case you don’t get any results for git –version</p>
 
-`$ git --version`
+`$ git --version`<br>
  ![Git_Version](https://github.com/prakashgkhaire/GitHubProject/blob/main/images/VerifyingGIT.jpg)
 
 #### Step 2: Installing Git: 
