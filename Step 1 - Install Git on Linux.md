@@ -14,12 +14,17 @@ This lab has two subsections, namely:
 <p>Please note: Git is already installed in your lab. Execute the below command to check the version. Execute Step 2.1.2 in case you don’t get any results for git –version</p>
 
 `$ git --version`
- 
+ ![Git_Version](https://github.com/prakashgkhaire/GitHubProject/blob/main/images/VerifyingGIT.jpg)
 
 #### Step 2: Installing Git: 
 <p>Execute the following commands on the terminal to install Git.</p>
 
+The following command is used to download package information from all configured sources.<br>
 `$ sudo apt-get update`<br>
-`$ sudo apt-get install git`
+![Git_Version](https://github.com/prakashgkhaire/GitHubProject/blob/main/images/UpdateSoftwarePackage.jpg)<br>
+
+Use the below command to install git on your machine.<br>
+`$ sudo apt-get install git`<br>
+![GitInstallation](https://github.com/prakashgkhaire/GitHubProject/blob/main/images/InstallGit.jpg)
  
 
